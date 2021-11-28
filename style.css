@@ -1,0 +1,86 @@
+.news-img .img{
+    
+    height: 224px;
+}
+.news{
+    
+    padding-left: 10px;
+   
+    
+    
+
+}
+.new-text  {
+    height: 180px;
+    margin-bottom: 10px;
+    
+
+}
+.new-text h3{
+   
+    padding: 15px 15px 0px 15px;
+   font-size: 25px;
+    
+}
+.status{
+    
+    height: 45px;
+}
+.status .bton{
+    
+    background-color:#F2F2F2;
+    height: 100%;
+    width: 33.3%;
+    text-align: center;
+    
+    float: left;
+
+}
+.bton i{
+    font-size: 20px;
+    color: #999999;
+    padding-top: 10px;
+}
+.like{
+    border-right: 1px solid #c9c5c5;
+}
+.show{
+    border-left: solid 1px #c9c5c5;
+}
+.like:hover{
+    
+    background-color: green;
+    cursor: pointer;
+}
+.dislike:hover{
+    background-color: red;
+    cursor: pointer;
+}
+.news:hover{
+    box-shadow: 0px 5px 5px 0px grey;
+}
+.news a{
+    text-decoration: none;
+}
+.date-time{
+    width: 75px;
+    height: 75px;
+    background-color: #1B8C99;
+    color: white;
+    position:absolute;
+    text-align: center;
+    opacity:0.7;
+    
+}.time{
+    background-color: #374967;
+    height: 40%;
+    color: white;
+    
+}
+.day{
+font-size: 23px;
+}
+
+
+
+
